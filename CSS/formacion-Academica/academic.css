@@ -1,0 +1,10 @@
+.academic{
+    background: #EAF2FD;
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+    padding: 82px;
+    gap: 32px;
+    width: 100%;
+    height: 581px;
+}

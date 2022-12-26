@@ -1,0 +1,8 @@
+.hobbies__line{
+    align-items: flex-start;
+    display: flex;
+    flex-direction: row;
+    gap: 16px;
+    height: 174px;
+    width: 1136px;
+}

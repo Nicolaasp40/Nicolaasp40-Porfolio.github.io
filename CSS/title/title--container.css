@@ -1,0 +1,32 @@
+.title__container{
+    display: flex;
+    flex-direction: column;
+    align-items: flex-start;
+    padding: 0px;
+    gap: 24px;
+
+    width: 751px;
+    height: 246px;
+}
+
+.title__bio{
+    width: 751px;
+    height: 122px;
+
+    font-family: 'Raleway';
+    font-style: normal;
+    font-weight: 700;
+    font-size: 52px;
+    line-height: 61px;
+}
+
+.title__subseccion{
+    width: 751px;
+    height: 52px;
+
+    font-family: 'Raleway';
+    font-style: normal;
+    font-weight: 400;
+    font-size: 22px;
+    line-height: 26px;
+}

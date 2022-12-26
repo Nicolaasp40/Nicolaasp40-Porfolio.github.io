@@ -1,0 +1,9 @@
+.title__network{
+    align-items: flex-start;
+    display: flex;
+    flex-direction: row;
+    gap: 32px;
+    height: 24px;
+    width: 60%;
+}
+

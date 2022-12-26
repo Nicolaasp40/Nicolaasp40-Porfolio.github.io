@@ -1,0 +1,8 @@
+.formcontacto__text{
+    display: flex;
+    flex-direction: column;
+    align-items: flex-start;
+    width: 656px;
+    height: 596px;
+    padding: 10px;
+}

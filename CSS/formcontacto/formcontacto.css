@@ -1,0 +1,9 @@
+.formcontacto{
+    align-items: center;
+    background: #EAF2FD;
+    display: flex;
+    flex-direction: column;
+    gap: 10px;
+    padding: 64px;
+    width: 1500px;
+}

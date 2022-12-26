@@ -1,0 +1,20 @@
+.experience__description{
+    gap: 16px;
+    height: 51px;
+}
+
+.experiencia__botao--repo{
+    box-sizing: border-box;
+    border: 1px solid #2A7AE4;
+    width: 116px;
+    height: 51px;
+    color: #2A7AE4;
+}
+
+.experience__botao--demo{
+    width: 105px;
+    height: 51px;
+    background-color: #2A7AE4;
+    color: white;
+    border: none;
+}
